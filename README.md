@@ -49,6 +49,15 @@ npm install
 
 on the root folder.
 
+run
+
+```
+npm run build
+```
+
+to create a build directory
+
+
 to run the application
 
 ```
@@ -76,11 +85,11 @@ https://github.com/momentes/21-MERN-Book-Search
 
 **Screenshot**
 
-<img src="/" width=85%>
+<img src="/images/21-mern-book-search-01.png" width=80%>
 
-<img src="/" width=85%>
+<img src="/images/21-mern-book-search-02.png" width=80%>
 
-<img src="/" width=85%>
+<img src="/images/21-mern-book-search-03.png" width=85%>
 
 # License
 
