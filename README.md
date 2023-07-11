@@ -81,6 +81,9 @@ https://github.com/momentes/21-MERN-Book-Search
 
 **Heroku Deployment**
 
+https://booksearch-mern-google-5fc49d967c93.herokuapp.com/
+
+https://git.heroku.com/booksearch-mern-google.git
 
 
 **Screenshot**
